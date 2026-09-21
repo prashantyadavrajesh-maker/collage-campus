@@ -1,2 +1,2 @@
 # collage-campus
-collage based project
+collage based project.
